@@ -11,7 +11,7 @@ class App extends Component {
             { id: 1, nom: "Christophe", age: 50, sexe: true },
             { id: 2, nom: "Leila", age: 25, sexe: false },
             { id: 5, nom: "Simon", age: 17, sexe: true },
-            { id: 7, nom: "Salomé", age: 15, sexe: false },
+            { id: 7, nom: "Salome", age: 15, sexe: false },
         ]
     }
 
